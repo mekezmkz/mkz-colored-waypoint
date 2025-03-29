@@ -2,7 +2,7 @@
 
 This script modifies the Waypoint color dynamically over time.
 
-<div align='center'><img src='[https://clubhouserp.it/wp-content/uploads/2025/03/carkey.jpg](https://cdn.discordapp.com/attachments/1350043947996545048/1355387526432559114/Screenshot_2025-03-27_100519.png?ex=67e8be80&is=67e76d00&hm=f526d31540bbdb1a12bb71e3c983d354c82d49b5fe7812ef1aba05d8ef8a0637&)' width="500px"></div>
+<div align='center'><img src='https://cdn.discordapp.com/attachments/1350043947996545048/1355387526432559114/Screenshot_2025-03-27_100519.png' width="500px"></div>
 
 ### 🚀 Features
 - Replaces Waypoint color dynamically.
