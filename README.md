@@ -18,10 +18,11 @@ In the `mkz-colored-waypoint.lua` file, you can modify the RGB values and update
 
 ```lua
 local colors = {
-    {223, 7, 83} -- Modify or add more colors
+    {223, 7, 83} -- Modify or add more colors - link below
 }
 local time = 3000 -- Adjust the update interval in milliseconds
 ```
+[Color Table](https://www.rapidtables.com/web/color/RGB_Color.html)
 
 ### 📜 License
 These scripts are open-source and can be freely used for FiveM projects. If you modify or use them in a public project, credit is always appreciated!
