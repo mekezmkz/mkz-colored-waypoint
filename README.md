@@ -1,0 +1,1 @@
+# mkz-colored-waypoint
